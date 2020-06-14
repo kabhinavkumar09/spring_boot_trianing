@@ -4,6 +4,7 @@ to the application ecommerce_temp i have created
 2.signup and login
 3.after login redirected to home page 
 4.given UI for navigation.
+5.signout
 
 
 pending for this application....
